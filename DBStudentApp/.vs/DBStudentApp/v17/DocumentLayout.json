@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1220276.csproj|c:\\users\\uzuma\\onedrive\\desktop\\git files\\dbstudentapp_1220276\\dbstudentapp_1220276\\app.config||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1220276.csproj|solutionrelative:app.config||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1191536.csproj|C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1191536.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp.csproj|c:\\users\\uzuma\\onedrive\\desktop\\git files\\dbstudentapp_1220276\\dbstudentapp_1220276\\dbstudentapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp.csproj|solutionrelative:dbstudentapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1220276.csproj|c:\\users\\uzuma\\onedrive\\desktop\\git files\\dbstudentapp_1220276\\dbstudentapp_1220276\\datalayer\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1220276.csproj|solutionrelative:datalayer\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1220276.csproj|c:\\users\\uzuma\\onedrive\\desktop\\git files\\dbstudentapp_1220276\\dbstudentapp_1220276\\datalayer\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1220276.csproj|solutionrelative:datalayer\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1220276.csproj|c:\\users\\uzuma\\onedrive\\desktop\\git files\\dbstudentapp_1220276\\dbstudentapp_1220276\\datalayer\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1220276.csproj|solutionrelative:datalayer\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1220276.csproj|C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1220276.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1220276.csproj|c:\\users\\uzuma\\onedrive\\desktop\\git files\\dbstudentapp_1220276\\dbstudentapp_1220276\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1220276.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1220276.csproj|c:\\users\\uzuma\\onedrive\\desktop\\git files\\dbstudentapp_1220276\\dbstudentapp_1220276\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A9EDE5-6453-4494-B171-854DC3CE1191}|DBStudentApp_1220276.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\DataLayer\\IDataAccess.cs",
+              "RelativeDocumentMoniker": "DataLayer\\IDataAccess.cs",
+              "ToolTip": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\DataLayer\\IDataAccess.cs",
+              "RelativeToolTip": "DataLayer\\IDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:16:05.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\DataLayer\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\DataLayer\\DataAccess.cs",
+              "RelativeToolTip": "DataLayer\\DataAccess.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:16:05.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\DataLayer\\IRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\IRepository.cs",
+              "ToolTip": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\DataLayer\\IRepository.cs",
+              "RelativeToolTip": "DataLayer\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:16:05.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-02T04:16:05.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-02T04:16:05.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:16:05.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-02T04:16:05.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:16:05.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBStudentApp_1220276.csproj",
+              "DocumentMoniker": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\DBStudentApp.csproj",
+              "RelativeDocumentMoniker": "DBStudentApp.csproj",
+              "ToolTip": "C:\\Users\\uzuma\\OneDrive\\Desktop\\Git Files\\DBStudentApp_1220276\\DBStudentApp_1220276\\DBStudentApp.csproj",
+              "RelativeToolTip": "DBStudentApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T04:16:05.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
